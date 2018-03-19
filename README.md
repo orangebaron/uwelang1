@@ -8,6 +8,9 @@ good things im gonna take from c++:
 - operator overriding
 - libraries (like all of them)
 - namespaces
+- asm command
+- unions
+- enums
 
 from golang:
 - semicolons optional
@@ -15,6 +18,7 @@ from golang:
 - interfaces
 - := operator
 - capital to export, lowercase for local
+- no pointer vs reference like there is in c++ (pointer methods will be provided for references)
 - git includes (?)
 - auto documentation (?)
 
